@@ -1,0 +1,17 @@
+header {
+  margin: 0; /* remove default margin */
+  display: flex;
+  justify-content: center; /* horizontal center */
+  align-items: center;     /* vertical center */
+}
+
+h1 {
+  background-color: rgb(56, 56, 176);
+  height: 200px;
+  width: 100%; /* optional, to see the box size */
+  color: white;
+  display: flex;
+  justify-content: center; /* center text horizontally */
+  align-items: center;     /* center text vertically */
+  margin: 0; /* remove default margin */
+}
